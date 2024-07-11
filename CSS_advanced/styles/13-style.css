@@ -34,6 +34,7 @@ a:link {
 }
 
 a:visited {
+    color: var(--text-color);
     text-decoration-style: Italic;
 }
 
