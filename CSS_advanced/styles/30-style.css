@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--color-primary);
 }
 
-.card-outer .card-work {
+.card-work .card-outer {
     position: relative;
     overflow: hidden;
 }
@@ -174,7 +174,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-work .card-title {
-    background-color: rgba(0, 0, 0, 0.7);
     text-align: center;
     margin: 0;
     opacity: 0;
