@@ -217,16 +217,12 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 1;
 }
 
-
-.card-work .card-image {
-    transform: scale(1.2);
-}
-
 .card-work:hover .card-outer {
     transform: scale(0.95);
 }
 
 .card-work:hover .card-image {
+    transform: scale(1.2);
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
